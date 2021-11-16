@@ -6,6 +6,6 @@ The following system
 -Rojo
 -Knit
 
-The movement system is in game>RepStorage>Controllers>MovementController
+The movement system is in <b>game>RepStorage>Controllers>MovementController</b>
 
-<a href = "(Anime-Movement-System/src/shared/Controllers/MovementController.lua)"> MovementController File Here!</a>
+<a href = "https://github.com/KazabiteBoltiz/Anime-Movement-System/blob/main/src/shared/Controllers/MovementController.lua"> MovementController File Here!</a>
