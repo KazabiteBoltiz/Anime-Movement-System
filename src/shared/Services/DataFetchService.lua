@@ -1,3 +1,10 @@
+--[[
+
+This was the Datastore Module for Stats, Sadly I got ripped off after this, so I couldn't complete it :(
+
+]]
+
+
 --// System
 local DataS = game:GetService("DataStoreService")
 local StatStore = DataS:GetDataStore("StatStore")
